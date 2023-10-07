@@ -2,7 +2,7 @@ export default async function About() {
     return (
         <>
             <div className="container mt-5 justify">
-                <h1 className="text-center mb-4">History</h1>
+                <h1 className="text-center mb-4">Sobre</h1>
                 <p>Este é um aplicativo de Pokédex construído com Next.js que utiliza a API de Pokémon para exibir informações sobre os Pokémon.
                 O aplicativo permite que os usuários pesquisem e naveguem pelos Pokémon de número 1 a 1050 e visualizem seu nome, altura, peso e tipo.
                 </p>
